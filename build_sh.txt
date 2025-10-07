@@ -1,3 +1,0 @@
-cd kendryte-standalone-sdk/build
-
-cmake .. -DPROJ=i2c_motor && make

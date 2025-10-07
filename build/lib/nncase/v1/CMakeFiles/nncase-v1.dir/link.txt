@@ -1,0 +1,2 @@
+/opt/kendryte-toolchain/bin/riscv64-unknown-elf-ar qc libnncase-v1.a "CMakeFiles/nncase-v1.dir/nncase_v1.cpp.obj"
+/opt/kendryte-toolchain/bin/riscv64-unknown-elf-ranlib libnncase-v1.a

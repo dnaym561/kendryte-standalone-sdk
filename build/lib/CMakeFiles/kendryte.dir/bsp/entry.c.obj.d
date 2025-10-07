@@ -1,0 +1,24 @@
+lib/CMakeFiles/kendryte.dir/bsp/entry.c.obj: \
+ /media/HDD2/kendryte-projects/lib/bsp/entry.c \
+ /media/HDD2/kendryte-projects/lib/bsp/include/entry.h \
+ /opt/kendryte-toolchain/riscv64-unknown-elf/include/stdlib.h \
+ /opt/kendryte-toolchain/riscv64-unknown-elf/include/machine/ieeefp.h \
+ /opt/kendryte-toolchain/riscv64-unknown-elf/include/_ansi.h \
+ /opt/kendryte-toolchain/riscv64-unknown-elf/include/newlib.h \
+ /opt/kendryte-toolchain/riscv64-unknown-elf/include/_newlib_version.h \
+ /opt/kendryte-toolchain/riscv64-unknown-elf/include/sys/config.h \
+ /opt/kendryte-toolchain/riscv64-unknown-elf/include/sys/features.h \
+ /opt/kendryte-toolchain/lib/gcc/riscv64-unknown-elf/8.2.0/include/stddef.h \
+ /opt/kendryte-toolchain/riscv64-unknown-elf/include/sys/reent.h \
+ /opt/kendryte-toolchain/riscv64-unknown-elf/include/_ansi.h \
+ /opt/kendryte-toolchain/riscv64-unknown-elf/include/sys/_types.h \
+ /opt/kendryte-toolchain/riscv64-unknown-elf/include/machine/_types.h \
+ /opt/kendryte-toolchain/riscv64-unknown-elf/include/machine/_default_types.h \
+ /opt/kendryte-toolchain/riscv64-unknown-elf/include/sys/lock.h \
+ /opt/kendryte-toolchain/riscv64-unknown-elf/include/sys/cdefs.h \
+ /opt/kendryte-toolchain/riscv64-unknown-elf/include/machine/stdlib.h \
+ /opt/kendryte-toolchain/riscv64-unknown-elf/include/alloca.h \
+ /opt/kendryte-toolchain/riscv64-unknown-elf/include/string.h \
+ /opt/kendryte-toolchain/riscv64-unknown-elf/include/xlocale.h \
+ /opt/kendryte-toolchain/riscv64-unknown-elf/include/strings.h \
+ /opt/kendryte-toolchain/riscv64-unknown-elf/include/sys/string.h
