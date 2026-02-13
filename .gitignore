@@ -1,0 +1,17 @@
+build/*
+cmake/*
+lds/*
+lib/*
+scripts/*
+src/*
+third_party/*
+
+.clang-format
+.travis.yml
+
+CHANGELOG.md
+CMakeLists.txt
+
+*.json
+LICENSE
+README.md
